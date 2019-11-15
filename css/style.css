@@ -1,0 +1,48 @@
+.full {
+  height: 55px;
+  background-color: cornflowerblue;
+}
+.full1 {
+  height: 55px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-size: 20pt;
+}
+.boom {
+  background-color: dimgray;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.boom1 {
+  background-color: cornflowerblue;
+  height: 50pt;
+}
+.arrow {
+  height: 20px;
+  background-color: rgb(185, 180, 180);
+}
+.adiv {
+  height: 20px;
+  background-color: burlywood;
+}
+.bdiv {
+  height: 20px;
+  background-color: rgb(135, 222, 150);
+}
+.cdiv {
+  height: 20px;
+  background-color: rgb(53, 20, 97);
+}
+.ddiv {
+  height: 20px;
+  background-color: rgb(192, 11, 110);
+}
+.ediv {
+  height: 20px;
+  background-color: coral;
+}
+.fdiv {
+  height: 20px;
+  background-color: cyan;
+}
